@@ -1,0 +1,8 @@
+@font-face {
+    font-family: FerroRosso;
+    src: url(fonts/Cross.ttf);
+}
+
+body {
+    font-family: FerroRosso;
+}
